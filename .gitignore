@@ -1,0 +1,21 @@
+# Binaries
+**/bin/
+bin-int/
+out/
+build/
+
+# Imediate CMake files
+CMakeFiles/
+
+# HEngine files
+*.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+Engine/Source/Editor/*.dll
+Engine/Source/Editor/*.ini
